@@ -1,122 +1,171 @@
-date,crew,cloud,airtemp,stream,time,turbidity,kocount,rbcount,btcount,bsucount,comments
-29/May/13,,,,big horn creek,,,0,0,0,0,
-29/May/13,,,,jones creek,,,0,0,0,0,"Highly braided, gracial fill influence"
-29/May/13,,,,marshall creek,,,0,0,0,0,Good vis
-29/May/13,,,,sucker creek,,,0,0,0,0,
-5/Jun/13,,,,big horn creek,,,0,0,0,0,
-5/Jun/13,,,,jones creek,,,0,0,0,0,
-5/Jun/13,,,,marshall creek,,,0,0,0,0,
-5/Jun/13,,,,sucker creek,,,0,0,0,26,
-11/Jun/13,,,,big horn creek,,4.8,0,0,0,0,
-11/Jun/13,,,,jones creek,,,0,2,0,0,
-11/Jun/13,,,,marshall creek,,,0,2,0,0,
-11/Jun/13,,,,sucker creek,,,0,0,0,45,
-18/Jun/13,,,,big horn creek,,,0,0,0,0,
-18/Jun/13,,,,jones creek,,30.2,0,0,0,0,Too turbid
-18/Jun/13,,,,marshall creek,,4.7,0,0,0,0,Too turbid
-18/Jun/13,,,,sucker creek,,25.2,0,0,0,188,
-2/Jul/13,,,,big horn creek,,,0,0,0,0,
-2/Jul/13,,,,jones creek,,,0,0,0,0,
-2/Jul/13,,,,marshall creek,,,0,0,0,0,
-2/Jul/13,,,,sucker creek,,,0,0,0,57,
-9/Jul/13,,,,big horn creek,,,0,0,0,0,
-9/Jul/13,,,,jones creek,,,0,0,0,0,
-9/Jul/13,,,,marshall creek,,,0,0,0,0,
-9/Jul/13,,,,sucker creek,,,0,0,0,70,
-16/Jul/13,,,,big horn creek,,38,0,0,0,0,
-16/Jul/13,,,,jones creek,,29.4,0,0,0,0,
-16/Jul/13,,,,marshall creek,,4.4,0,0,0,0,
-16/Jul/13,,,,sucker creek,,,0,0,0,0,
-23/Aug/13,,,,gun creek,,1.28,0,0,0,0,Visability <5cm
-23/Aug/13,,,,hrb,,,,0,0,0,Saw kokanee rolling beneath the bridge
-29/Aug/13,,,,gun creek,,,0,0,0,0,Visability <5cm
-29/Aug/13,,,,hrb,,,,0,0,0,Saw kokanee rolling beneath the bridge but not much visability
-29/Aug/13,,,,sucker creek,,,0,0,0,0,Good visabiltiy
-6/Sep/13,,,,hrb,,,0,0,0,0,
-6/Sep/13,,,,macdonald creek,,,5,0,0,0,
-6/Sep/13,,,,sucker creek,,,9,0,0,0,
-14/May/14,ES/SP,,,gbb,,very turbid,0,0,0,0,
-14/May/14,ES/SP,,,girl creek,,very turbid,0,0,0,0,
-14/May/14,ES/SP,,,gun creek,,very turbid,0,0,0,0,
-14/May/14,ES/SP,,,hrb,,very turbid,0,0,0,0,
-14/May/14,ES/SP,,,macdonald creek,,very turbid,0,0,0,0,
-14/May/14,ES/SP,,,marshall creek,,clear,0,8,3,0,
-14/May/14,ES/SP,,,sucker creek,,very turbid,0,0,0,0,
-14/May/14,ES/SP,,,tyaughton creek,,very turbid,0,0,0,0,
-20/May/14,ES/SP/CJ,30,,gbb,,very turbid,0,0,0,0,
-20/May/14,ES/SP/CJ,30,,girl creek,,clear,0,2,0,0,
-20/May/14,ES/SP/CJ,30,,gun creek,,very turbid,0,0,0,0,
-20/May/14,ES/SP/CJ,30,,hrb,,very turbid,0,0,0,0,
-20/May/14,ES/SP/CJ,30,,macdonald creek,,clear,0,0,0,0,
-20/May/14,ES/SP/CJ,30,,marshall creek,,clear,0,1,0,0,
-20/May/14,ES/SP/CJ,30,,sucker creek,,clear,0,0,0,0,
-27/May/14,ES/SP,,,gbb,,very turbid,0,0,0,0,
-27/May/14,ES/SP,,,girl creek,,clear,0,1,0,0,250 m in from confluence
-27/May/14,ES/SP,,,gun creek,,very turbid,0,0,0,0,
-27/May/14,ES/SP,,,hrb,,very turbid,0,0,0,0,
-27/May/14,ES/SP,,,macdonald creek,,clear,0,0,0,0,
-27/May/14,ES/SP,,,marshall creek,,clear,0,0,0,0,
-27/May/14,ES/SP,,,sucker creek,,clear,0,0,0,0,
-12/Jun/14,ES/AJ/SP,,,girl creek,,clear,0,2,0,0,
-12/Jun/14,ES/AJ/SP,,,gun creek,,very turbid,0,0,0,0,
-12/Jun/14,ES/AJ/SP,,,macdonald creek,,clear,0,0,0,0,
-12/Jun/14,ES/AJ/SP,,,marshall creek,,clear,0,7,0,0,
-12/Jun/14,ES/AJ/SP,,,sucker creek,,clear,0,0,0,0,
-12/Jun/14,ES/AJ/SP,,,truax creek,,clear,0,0,0,0,
-20/Jun/14,ES/AJ/SP,95,,girl creek,,clear,0,0,1,0,
-20/Jun/14,ES/AJ/SP,95,,gun creek,,very turbid,0,0,0,0,
-20/Jun/14,ES/AJ/SP,95,,macdonald creek,,clear,0,2,0,0,
-20/Jun/14,ES/AJ/SP,95,,marshall creek,,clear,0,11,0,0,
-20/Jun/14,ES/AJ/SP,95,,sucker creek,,clear,0,0,0,0,hundreds of suckers
-20/Jun/14,ES/AJ/SP,95,,truax creek,,clear,0,1,0,0,"fished confluence, 4 recap bt, 9 tagged  bt, 13 total bt 00584856, ln 390"
-19/Aug/14,AP/ES/SP,25,20,gbb,14:00,0m,,0,0,0,saw only 2 in a few mins rolling and jumping
-19/Aug/14,AP/ES/SP,25,20,girl creek,12:24,clear,0,0,0,0,walked to road 0517173/5637578
-19/Aug/14,AP/ES/SP,25,20,gun creek,14:30,<1m,0,0,0,0,
-19/Aug/14,AP/ES/SP,25,20,hrb,14:00,very turbid,,0,0,0,saw ~20 in a few mins rolling and jumping
-19/Aug/14,AP/ES/SP,25,20,macdonald creek,13:15,clear,0,0,0,0,walked to road  
-19/Aug/14,AP/ES/SP,25,20,marshall creek,15:15,clear,6,0,0,0,
-19/Aug/14,AP/ES/SP,25,20,sucker creek,13:30,clear,22,0,0,0,walked to road 0511946/5634526
-19/Aug/14,AP/ES/SP,25,20,truax creek,11:45,~1m,41,0,0,0,walked to 0525326/5637008
-26/Aug/14,ES/SP,25,,gbb,15:07,very turbid,0,0,0,0,
-26/Aug/14,ES/SP,25,,girl creek,12:24,clear,1,0,0,0,
-26/Aug/14,ES/SP,25,,gun creek,10:42,<1m,0,0,0,0,
-26/Aug/14,ES/SP,25,,hrb,15:00,very turbid,,0,0,0,ko rolling saw 7 in 3 mins
-26/Aug/14,ES/SP,25,,macdonald creek,11:40,clear,91,0,0,0,2 ko made it through culvert
-26/Aug/14,ES/SP,25,,marshall creek,9:30,clear,26,0,1,0,
-26/Aug/14,ES/SP,25,,sucker creek,11:30,clear,33,0,0,0,
-26/Aug/14,ES/SP,25,,truax creek,14:05,<1m,106,0,0,0,
-3/Sep/14,AP/CJ/RJ,75,12,girl creek,13:15,clear,5,0,0,0,
-3/Sep/14,AP/CJ/RJ,75,12,gun creek,16:40,<1m,0,0,0,0,
-3/Sep/14,AP/CJ/RJ,75,12,hrb,15:38,0m,,0,0,0,saw ko rolling at bridge
-3/Sep/14,AP/CJ/RJ,75,12,macdonald creek,13:45,clear,19,0,0,0,
-3/Sep/14,AP/CJ/RJ,75,12,marshall creek,17:43,clear,27,0,0,0,
-3/Sep/14,AP/CJ/RJ,75,12,sucker creek,14:45,clear,16,0,0,0, 
-3/Sep/14,AP/CJ/RJ,75,12,truax creek,11:39,<1m,78,0,0,0,went only to the bridge instead of furhter; will go this far from now on
-10/Sep/14,AP/ES/SP,0,15,gbb,12:55,no vis,0,0,0,0,didn’t see any rolling
-10/Sep/14,AP/ES/SP,0,15,girl creek,11:10,clear,0,0,0,0,no fish rolling at the confluence this week
-10/Sep/14,AP/ES/SP,0,15,gun creek,13:15,no vis,0,0,0,0,
-10/Sep/14,AP/ES/SP,0,15,hrb,12:30,no vis,,0,0,0,"not as many as before,but still some; counted 20"
-10/Sep/14,AP/ES/SP,0,15,macdonald creek,12:00,clear,3,0,0,0,
-10/Sep/14,AP/ES/SP,0,15,marshall creek,14:25,clear,16,0,0,0,
-10/Sep/14,AP/ES/SP,0,15,sucker creek,12:15,clear,7,0,0,0,no fish rolling at the confluence
-10/Sep/14,AP/CJ/RJ,0,15,truax creek,9:50,~1m,15,0,0,0,
-16/Sep/14,CJ/AP/ES,0,18,girl creek,11:50,clear,0,0,0,0,
-16/Sep/14,CJ/AP/ES,0,18,gun creek,15:00,no vis,0,0,0,0,
-16/Sep/14,CJ/AP/ES,0,18,hrb,14:00,no vis,,0,0,0,rolling under bridge; saw two
-16/Sep/14,CJ/AP/ES,0,18,macdonald creek,12:45,clear,2,0,0,0,near confluence
-16/Sep/14,CJ/AP/ES,0,18,marshall creek,16:00,clear,1,0,0,0,
-16/Sep/14,CJ/AP/ES,0,18,sucker creek,13:10,clear,3,0,0,0,
-16/Sep/14,CJ/AP/ES,0,18,truax creek,10:55,~1m,1,0,0,0,tagged bulltrout
-23/Sep/14,CJ/AA,75,,girl creek,13:00,clear,0,0,0,0,
-23/Sep/14,CJ/AA,75,,gun creek,15:30,clear,0,0,0,0,
-23/Sep/14,CJ/AA,75,,macdonald creek,14:00,clear,0,0,0,0,
-23/Sep/14,CJ/AA,75,,marshall creek,17:15,clear,0,0,0,0,
-23/Sep/14,CJ/AA,75,,sucker creek,14:30,clear,0,0,0,0,
-23/Sep/14,CJ/AA,75,,truax creek,11:00,<1m,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,girl creek,12:00,clear,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,gun creek,15:06,no vis,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,hrb,14:50,no vis,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,macdonald creek,13:35,clear,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,marshall creek,17:00,clear,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,sucker creek,14:28,clear,0,0,0,0,
-1/Oct/14,CJ/RJ,75,,truax creek,10:45,clear,0,0,0,0,
+date,crew,cloud,airtemp,stream,time,"viz (good, fair, poor)","discharge (high, mod, low, dry)",kocount.below,kocount.above,rbcount.below,rbcount.above,btcount.below,btcount.above,bsucount.below,bsucount.above,comments
+29/May/13,,,,big horn creek,,,,0,,0,,0,,0,,
+29/May/13,,,,jones creek,,,,0,,0,,0,,0,,"Highly braided, gracial fill influence"
+29/May/13,,,,marshall creek,,,,0,,0,,0,,0,,Good vis
+29/May/13,,,,sucker creek,,,,0,,0,,0,,0,,
+5/Jun/13,,,,big horn creek,,,,0,,0,,0,,0,,
+5/Jun/13,,,,jones creek,,,,0,,0,,0,,0,,
+5/Jun/13,,,,marshall creek,,,,0,,0,,0,,0,,
+5/Jun/13,,,,sucker creek,,,,0,,0,,0,,26,,
+11/Jun/13,,,,big horn creek,,4.8,,0,,0,,0,,0,,
+11/Jun/13,,,,jones creek,,,,0,,2,,0,,0,,
+11/Jun/13,,,,marshall creek,,,,0,,2,,0,,0,,
+11/Jun/13,,,,sucker creek,,,,0,,0,,0,,45,,
+18/Jun/13,,,,big horn creek,,,,0,,0,,0,,0,,
+18/Jun/13,,,,jones creek,,30.2,,0,,0,,0,,0,,Too turbid
+18/Jun/13,,,,marshall creek,,4.7,,0,,0,,0,,0,,Too turbid
+18/Jun/13,,,,sucker creek,,25.2,,0,,0,,0,,188,,
+2/Jul/13,,,,big horn creek,,,,0,,0,,0,,0,,
+2/Jul/13,,,,jones creek,,,,0,,0,,0,,0,,
+2/Jul/13,,,,marshall creek,,,,0,,0,,0,,0,,
+2/Jul/13,,,,sucker creek,,,,0,,0,,0,,57,,
+9/Jul/13,,,,big horn creek,,,,0,,0,,0,,0,,
+9/Jul/13,,,,jones creek,,,,0,,0,,0,,0,,
+9/Jul/13,,,,marshall creek,,,,0,,0,,0,,0,,
+9/Jul/13,,,,sucker creek,,,,0,,0,,0,,70,,
+16/Jul/13,,,,big horn creek,,38,,0,,0,,0,,0,,
+16/Jul/13,,,,jones creek,,29.4,,0,,0,,0,,0,,
+16/Jul/13,,,,marshall creek,,4.4,,0,,0,,0,,0,,
+16/Jul/13,,,,sucker creek,,,,0,,0,,0,,0,,
+23/Aug/13,,,,gun creek,,1.28,,0,,0,,0,,0,,Visability <5cm
+23/Aug/13,,,,hrb,,,,,,0,,0,,0,,Saw kokanee rolling beneath the bridge
+29/Aug/13,,,,gun creek,,,,0,,0,,0,,0,,Visability <5cm
+29/Aug/13,,,,hrb,,,,,,0,,0,,0,,Saw kokanee rolling beneath the bridge but not much visability
+29/Aug/13,,,,sucker creek,,,,0,,0,,0,,0,,Good visabiltiy
+6/Sep/13,,,,hrb,,,,0,,0,,0,,0,,
+6/Sep/13,,,,macdonald creek,,,,5,,0,,0,,0,,
+6/Sep/13,,,,sucker creek,,,,9,,0,,0,,0,,
+14/May/14,ES/SP,,,gbb,,very turbid,,0,,0,,0,,0,,
+14/May/14,ES/SP,,,girl creek,,very turbid,,0,,0,,0,,0,,
+14/May/14,ES/SP,,,gun creek,,very turbid,,0,,0,,0,,0,,
+14/May/14,ES/SP,,,hrb,,very turbid,,0,,0,,0,,0,,
+14/May/14,ES/SP,,,macdonald creek,,very turbid,,0,,0,,0,,0,,
+14/May/14,ES/SP,,,marshall creek,,clear,,0,,8,,3,,0,,
+14/May/14,ES/SP,,,sucker creek,,very turbid,,0,,0,,0,,0,,
+14/May/14,ES/SP,,,tyaughton creek,,very turbid,,0,,0,,0,,0,,
+20/May/14,ES/SP/CJ,30,,gbb,,very turbid,,0,,0,,0,,0,,
+20/May/14,ES/SP/CJ,30,,girl creek,,clear,,0,,2,,0,,0,,
+20/May/14,ES/SP/CJ,30,,gun creek,,very turbid,,0,,0,,0,,0,,
+20/May/14,ES/SP/CJ,30,,hrb,,very turbid,,0,,0,,0,,0,,
+20/May/14,ES/SP/CJ,30,,macdonald creek,,clear,,0,,0,,0,,0,,
+20/May/14,ES/SP/CJ,30,,marshall creek,,clear,,0,,1,,0,,0,,
+20/May/14,ES/SP/CJ,30,,sucker creek,,clear,,0,,0,,0,,0,,
+27/May/14,ES/SP,,,gbb,,very turbid,,0,,0,,0,,0,,
+27/May/14,ES/SP,,,girl creek,,clear,,0,,1,,0,,0,,250 m in from confluence
+27/May/14,ES/SP,,,gun creek,,very turbid,,0,,0,,0,,0,,
+27/May/14,ES/SP,,,hrb,,very turbid,,0,,0,,0,,0,,
+27/May/14,ES/SP,,,macdonald creek,,clear,,0,,0,,0,,0,,
+27/May/14,ES/SP,,,marshall creek,,clear,,0,,0,,0,,0,,
+27/May/14,ES/SP,,,sucker creek,,clear,,0,,0,,0,,0,,
+12/Jun/14,ES/AJ/SP,,,girl creek,,clear,,0,,2,,0,,0,,
+12/Jun/14,ES/AJ/SP,,,gun creek,,very turbid,,0,,0,,0,,0,,
+12/Jun/14,ES/AJ/SP,,,macdonald creek,,clear,,0,,0,,0,,0,,
+12/Jun/14,ES/AJ/SP,,,marshall creek,,clear,,0,,7,,0,,0,,
+12/Jun/14,ES/AJ/SP,,,sucker creek,,clear,,0,,0,,0,,0,,
+12/Jun/14,ES/AJ/SP,,,truax creek,,clear,,0,,0,,0,,0,,
+20/Jun/14,ES/AJ/SP,95,,girl creek,,clear,,0,,0,,1,,0,,
+20/Jun/14,ES/AJ/SP,95,,gun creek,,very turbid,,0,,0,,0,,0,,
+20/Jun/14,ES/AJ/SP,95,,macdonald creek,,clear,,0,,2,,0,,0,,
+20/Jun/14,ES/AJ/SP,95,,marshall creek,,clear,,0,,11,,0,,0,,
+20/Jun/14,ES/AJ/SP,95,,sucker creek,,clear,,0,,0,,0,,0,,hundreds of suckers
+20/Jun/14,ES/AJ/SP,95,,truax creek,,clear,,0,,1,,0,,0,,"fished confluence, 4 recap bt, 9 tagged  bt, 13 total bt 00584856, ln 390"
+27/Jun/14,,,,girl creek,,,,0,,0,,0,,0,,Added for plotting purposes
+27/Jun/14,,,,gun creek,,,,0,,0,,0,,0,,
+27/Jun/14,,,,macdonald creek,,,,0,,0,,0,,0,,
+27/Jun/14,,,,marshall creek,,,,0,,0,,0,,0,,
+27/Jun/14,,,,sucker creek,,,,0,,0,,0,,0,,
+27/Jun/14,,,,truax creek,,,,0,,0,,0,,0,,
+19/Aug/14,AP/ES/SP,25,20,gbb,14:00,0m,,,,0,,0,,0,,saw only 2 in a few mins rolling and jumping
+19/Aug/14,AP/ES/SP,25,20,girl creek,12:24,clear,,0,,0,,0,,0,,walked to road 0517173/5637578
+19/Aug/14,AP/ES/SP,25,20,gun creek,14:30,<1m,,0,,0,,0,,0,,
+19/Aug/14,AP/ES/SP,25,20,hrb,14:00,very turbid,,,,0,,0,,0,,saw ~20 in a few mins rolling and jumping
+19/Aug/14,AP/ES/SP,25,20,macdonald creek,13:15,clear,,0,,0,,0,,0,,walked to road  
+19/Aug/14,AP/ES/SP,25,20,marshall creek,15:15,clear,,6,,0,,0,,0,,
+19/Aug/14,AP/ES/SP,25,20,sucker creek,13:30,clear,,22,,0,,0,,0,,walked to road 0511946/5634526
+19/Aug/14,AP/ES/SP,25,20,truax creek,11:45,~1m,,41,,0,,0,,0,,walked to 0525326/5637008
+26/Aug/14,ES/SP,25,,gbb,15:07,very turbid,,0,,0,,0,,0,,
+26/Aug/14,ES/SP,25,,girl creek,12:24,clear,,1,,0,,0,,0,,
+26/Aug/14,ES/SP,25,,gun creek,10:42,<1m,,0,,0,,0,,0,,
+26/Aug/14,ES/SP,25,,hrb,15:00,very turbid,,,,0,,0,,0,,ko rolling saw 7 in 3 mins
+26/Aug/14,ES/SP,25,,macdonald creek,11:40,clear,,91,,0,,0,,0,,2 ko made it through culvert
+26/Aug/14,ES/SP,25,,marshall creek,9:30,clear,,26,,0,,1,,0,,
+26/Aug/14,ES/SP,25,,sucker creek,11:30,clear,,33,,0,,0,,0,,
+26/Aug/14,ES/SP,25,,truax creek,14:05,<1m,,106,,0,,0,,0,,
+3/Sep/14,AP/CJ/RJ,75,12,girl creek,13:15,clear,,5,,0,,0,,0,,
+3/Sep/14,AP/CJ/RJ,75,12,gun creek,16:40,<1m,,0,,0,,0,,0,,
+3/Sep/14,AP/CJ/RJ,75,12,hrb,15:38,0m,,,,0,,0,,0,,saw ko rolling at bridge
+3/Sep/14,AP/CJ/RJ,75,12,macdonald creek,13:45,clear,,19,,0,,0,,0,,
+3/Sep/14,AP/CJ/RJ,75,12,marshall creek,17:43,clear,,27,,0,,0,,0,,
+3/Sep/14,AP/CJ/RJ,75,12,sucker creek,14:45,clear,,16,,0,,0,,0,, 
+3/Sep/14,AP/CJ/RJ,75,12,truax creek,11:39,<1m,,78,,0,,0,,0,,went only to the bridge instead of furhter; will go this far from now on
+10/Sep/14,AP/ES/SP,0,15,gbb,12:55,no vis,,0,,0,,0,,0,,didn’t see any rolling
+10/Sep/14,AP/ES/SP,0,15,girl creek,11:10,clear,,0,,0,,0,,0,,no fish rolling at the confluence this week
+10/Sep/14,AP/ES/SP,0,15,gun creek,13:15,no vis,,0,,0,,0,,0,,
+10/Sep/14,AP/ES/SP,0,15,hrb,12:30,no vis,,,,0,,0,,0,,"not as many as before,but still some; counted 20"
+10/Sep/14,AP/ES/SP,0,15,macdonald creek,12:00,clear,,3,,0,,0,,0,,
+10/Sep/14,AP/ES/SP,0,15,marshall creek,14:25,clear,,16,,0,,0,,0,,
+10/Sep/14,AP/ES/SP,0,15,sucker creek,12:15,clear,,7,,0,,0,,0,,no fish rolling at the confluence
+10/Sep/14,AP/CJ/RJ,0,15,truax creek,9:50,~1m,,15,,0,,0,,0,,
+16/Sep/14,CJ/AP/ES,0,18,girl creek,11:50,clear,,0,,0,,0,,0,,
+16/Sep/14,CJ/AP/ES,0,18,gun creek,15:00,no vis,,0,,0,,0,,0,,
+16/Sep/14,CJ/AP/ES,0,18,hrb,14:00,no vis,,,,0,,0,,0,,rolling under bridge; saw two
+16/Sep/14,CJ/AP/ES,0,18,macdonald creek,12:45,clear,,2,,0,,0,,0,,near confluence
+16/Sep/14,CJ/AP/ES,0,18,marshall creek,16:00,clear,,1,,0,,0,,0,,
+16/Sep/14,CJ/AP/ES,0,18,sucker creek,13:10,clear,,3,,0,,0,,0,,
+16/Sep/14,CJ/AP/ES,0,18,truax creek,10:55,~1m,,1,,0,,0,,0,,tagged bulltrout
+23/Sep/14,CJ/AA,75,,girl creek,13:00,clear,,0,,0,,0,,0,,
+23/Sep/14,CJ/AA,75,,gun creek,15:30,clear,,0,,0,,0,,0,,
+23/Sep/14,CJ/AA,75,,macdonald creek,14:00,clear,,0,,0,,0,,0,,
+23/Sep/14,CJ/AA,75,,marshall creek,17:15,clear,,0,,0,,0,,0,,
+23/Sep/14,CJ/AA,75,,sucker creek,14:30,clear,,0,,0,,0,,0,,
+23/Sep/14,CJ/AA,75,,truax creek,11:00,<1m,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,girl creek,12:00,clear,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,gun creek,15:06,no vis,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,hrb,14:50,no vis,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,macdonald creek,13:35,clear,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,marshall creek,17:00,clear,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,sucker creek,14:28,clear,,0,,0,,0,,0,,
+1/Oct/14,CJ/RJ,75,,truax creek,10:45,clear,,0,,0,,0,,0,,
+8/May/15,ap/cj,,,jones creek,,,,0,0,0,0,0,0,0,0,"Performed stream surveys and did counts at the same time. Didn't record anythign regarding viz or discharge, but turbidity is on the field survey sheets."
+8/May/15,ap/cj,,,truax creek,,,,0,0,0,0,0,0,0,0,
+8/May/15,ap/cj,,,girl creek,,,,0,0,0,0,0,0,0,0,
+8/May/15,ap/cj,,,macdonald creek,,,,0,0,0,0,0,0,0,0,
+8/May/15,ap/cj,,,marshall creek,,,,0,0,0,0,0,0,0,0,
+8/May/15,ap/cj,,,sucker creek,,,,0,0,0,0,0,0,0,0,
+15/May/15,CJ/RJ,,,jones creek,,,,0,0,0,0,0,0,0,0,
+15/May/15,CJ/RJ,,,truax creek,,,,0,0,0,0,0,0,0,0,
+15/May/15,CJ/RJ,,,girl creek,,,,0,0,0,0,0,0,0,0,
+15/May/15,CJ/RJ,,,macdonald creek,,,,0,0,0,0,0,0,0,0,
+15/May/15,CJ/RJ,,,marshall creek,,,,0,0,0,0,0,0,0,0,
+15/May/15,CJ/RJ,,,sucker creek,,,,0,0,0,0,0,0,0,0,
+28/May/15,CJ/RJ,,,jones creek,,,,0,0,0,0,0,0,0,0,
+28/May/15,CJ/RJ,,,truax creek,,,,0,0,0,0,0,0,0,0,
+28/May/15,CJ/RJ,,,girl creek,,,,0,0,0,0,0,0,0,0,
+28/May/15,CJ/RJ,,,macdonald creek,,,,0,0,0,0,0,0,0,0,
+28/May/15,CJ/RJ,,,marshall creek,,,,0,0,0,0,0,0,0,0,Almost no below full pool left due to the heigth of the reservoir.
+28/May/15,CJ/RJ,,,sucker creek,,,,0,0,0,0,0,0,0,0,
+5/Jun/15,CJ/RJ,0,,truax creek,9:00,good,high,0,0,0,0,0,0,0,0,
+5/Jun/15,CJ/RJ,0,,girl creek,10:24,good,high,0,0,0,0,0,0,0,0,
+5/Jun/15,CJ/RJ,0,,macdonald creek,11:10,poor,high,0,0,0,0,0,0,0,0,
+5/Jun/15,CJ/RJ,0,,sucker creek,11:37,good,high,0,0,0,0,0,0,0,0,
+5/Jun/15,CJ/RJ,0,,marshall creek,13:37,good,high,0,0,NA,0,0,0,0,0,Almost no below full pool left due to the heigth of the reservoir.
+5/Jun/15,CJ/RJ,0,,jones creek,14:00,good,moderate,0,0,0,0,0,0,0,0,
+12/Jun/15,AA/KS,75,,truax creek,10:54,good,high,0,0,1,0,0,0,0,0,"They had on the sheet that this was a bull trout, but I'm not convinced"
+12/Jun/15,AA/KS,75,,girl creek,13:00,good,high,0,0,0,1,0,0,0,0,
+12/Jun/15,AA/KS,75,,macdonald creek,13:30,good,high,0,0,0,0,0,0,0,0,
+12/Jun/15,AA/KS,75,,sucker creek,13:46,good,high,0,0,0,0,0,0,0,0,
+12/Jun/15,AA/KS,75,,marshall creek,15:20,good,high,0,0,0,0,0,0,0,0,
+12/Jun/15,AA/KS,75,,jones creek,15:30,good, low,0,0,0,0,0,0,0,0,
+19/Jun/15,"AA,SP",50,,truax,,good,high,0,0,0,0,0,0,0,0,
+19/Jun/15,"AA,SP",50,,girl,,good,mod,0,0,0,0,0,0,0,0,
+19/Jun/15,"AA,SP",50,,mcdonald,,good,mod,0,0,0,0,0,0,0,0,
+19/Jun/15,"AA,SP",50,,sucker,,good,mod,0,0,0,0,0,0,0,0,
+19/Jun/15,"AA,SP",50,,gun,,poor,high,0,0,0,0,0,0,0,0,
+19/Jun/15,"AA,SP",50,,marshall,,good,high,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,truax,9:51,good,mod,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,girl,11:05,good,mod,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,mcdonald,11:44,good,mod,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,sucker,12:08,good,high,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,gun,12:43,poor,high,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,marshall,2:38,fair,high,0,0,0,0,0,0,0,0,
+26/Jun/15,"AA,SP",0,,jones,3:01,good,low,0,0,0,0,0,0,0,0,
