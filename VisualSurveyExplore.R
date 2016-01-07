@@ -82,3 +82,33 @@ axis(side=1,at=MonthsRB,labels=labelsRB,cex.axis=0.8)
 legend(max(MonthsRB)-75,12,legend=c("Girl Creek","Macdonald Creek","Marshall Creek","Truax Creek"), pch=c(19,19,19,19),bty="n",
        col=c("red","darkgrey","purple","black"))
 
+#####################
+# Plot the sum of all streams for ko and rainbow by date
+#####################
+
+# Create axis labels
+axisdates <- format(seq(as.POSIXlt("2010-01-01"), length=12, by="1 month"),"%b-%d")
+axisdatesdays <- as.POSIXlt(seq(as.POSIXlt("2010-01-01"), length=12, by="1 month"))$yday
+                       
+# Add day numbers to the file so that plotting can be done for multiple years
+datesum$daynumber <- as.POSIXlt(datesum$date)$yday
+datesum$year <- format(datesum$date,"%Y")
+datesum2014 <- subset(datesum,year=="2014")
+datesum2015 <- subset(datesum,year=="2015")
+
+kodates <- c(212,275)
+rbdates <- c(120,180)
+ko2014 <- subset(datesum2014,daynumber>kodates[1] & daynumber<kodates[2])
+ko2015 <- subset(datesum2015,daynumber>kodates[1] & daynumber<kodates[2])
+rb2014 <- subset(datesum2014,daynumber>rbdates[1] & daynumber<rbdates[2])
+rb2015 <- subset(datesum2015,daynumber>rbdates[1] & daynumber<rbdates[2])
+
+plot(ko2014$daynumber,ko2014$kosums,ylab="Count in all Streams",xlab="",las=1,xaxt="n",pch=19,type="b",col="black",ylim=c(0,300),xlim=kodates,lwd=2)
+points(ko2015$daynumber,ko2015$kosums,ylab="",xlab="",las=1,xaxt="n",pch=19,type="b",lty=2,col="black",lwd=2)
+axis(1,at=axisdatesdays,labels=axisdates)
+legend(kodates[1],300,lty=c(1,2),lwd=c(2,2),legend=c("2014","2015"),bty="n")
+
+plot(rb2014$daynumber,rb2014$rbsums,ylab="Count in all Streams",xlab="",las=1,xaxt="n",pch=19,type="b",col="black",ylim=c(0,16),xlim=rbdates,lwd=2)
+points(rb2015$daynumber,rb2015$rbsums,ylab="",xlab="",las=1,xaxt="n",pch=19,type="b",lty=2,col="black",lwd=2)
+axis(1,at=axisdatesdays,labels=axisdates)
+legend(rbdates[1],16,lty=c(1,2),lwd=c(2,2),legend=c("2014","2015"),bty="n")
